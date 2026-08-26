@@ -1,8 +1,7 @@
 # RecoverAI — AI Revenue Recovery Platform (Track 3)
 
-> **Autonomous AI-Driven Revenue Recovery Platform for Modern Businesses**  
-> *Track 3: AI Revenue Recovery MVP*
-
+> **Autonomous AI-Driven Revenue Recovery Platform for Modern Businesses**
+> 
 ---
 
 ## 📌 Problem Statement
