@@ -1,4 +1,4 @@
-# RecoverAI — AI Revenue Recovery Platform (Track 3)
+# RecoverAI — AI Revenue Recovery Platform
 
 > **Autonomous AI-Driven Revenue Recovery Platform for Modern Businesses**
 > 
