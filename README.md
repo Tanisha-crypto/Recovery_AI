@@ -130,6 +130,4 @@ The AI engine in RecoverAI simulates the following core heuristic models:
 5. **Execute Recovery:** Click **"Start Recovery"** on any customer or go to **Recovery Actions** and click **"Start Recovery"** on a playbook.
 6. **Watch Real-Time Impact:** Notice the toast notification **"Recovery campaign started successfully!"**, the live activity log update, and the **Revenue Recovered** metric dynamically increase!
 
----
 
-*Built with ❤️ for Track 3: AI Revenue Recovery.*
